@@ -1,0 +1,86 @@
+1609582944635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Petrus\\AppData\\Local\\Temp\\rust_mozprofileO1DAGd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609582946754	Marionette	INFO	Listening on port 59920
+1609582946870	Marionette	WARN	TLS certificate errors will be ignored for this session
+Jan 02, 2021 5:22:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jumlah Kolom : 21
+Jumlah Baris : 5
+-----------------START-----------------
+================================== DATA KE-1 ==================================
+Random Email : 1iruyqIs8zDpaa9@gmail.com
+Title : Mrs
+sTitle : 2
+First Name : Budi
+Last Name : Zeich
+Password : testing123
+Date Of Birth : 05-08-1993
+News Letter? : Y
+Special offers? : N
+Address First Name : BUDI
+Address Last Name : Z
+Company : PT. ABC
+Address 1 : ADDRESS1
+Address 2 : LASTADDRESS1
+City : CITY A
+id_country : United States
+INPUT STATE AND POSTAL CODE
+id_state : Hawaii
+postcode : 11730
+other : additional information 1
+phone : 0213823172
+phone_mobile : 082138123712
+alias : future reference 1
+Redirecting new row..
+================================== DATA KE-2 ==================================
+Random Email : oxjLPxowLfV5cfZ@gmail.com
+Title : Mr
+sTitle : 1
+First Name : Lola
+Last Name : Northen
+Password : testing124
+Date Of Birth : 01-01-2000
+News Letter? : N
+Special offers? : Y
+Address First Name : LOLA
+Address Last Name : N
+Company : PT.DEF
+Address 1 : ADDRESS2
+Address 2 : LASTADDRESS2
+City : CITY B
+INPUT STATE AND POSTAL CODE
+id_state : Kentucky
+postcode : 12345
+other : additional information 2
+phone : 021381283
+phone_mobile : 08213812392
+alias : future reference 2
+Redirecting new row..
+================================== DATA KE-3 ==================================
+Random Email : 1XILAZ81gN3Y4Af@gmail.com
+Title : Mrs
+sTitle : 2
+First Name : Lala
+Last Name : Southen
+Password : testing125
+Date Of Birth : 28-03-1985
+News Letter? : Y
+Special offers? : N
+Address First Name : LALA
+Address Last Name : S
+Company : PT. GHI
+Address 1 : ADDRESS3
+Address 2 : LASTADDRESS3
+City : CITY C
+id_country : United States
+INPUT STATE AND POSTAL CODE
+id_state : Florida
+postcode : 11502
+other : additional information 3
+phone : 021381238
+phone_mobile : 028138123721
+alias : future reference 3
+-----------------FINISH-----------------
